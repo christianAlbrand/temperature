@@ -1,0 +1,64 @@
+.buttonConverter{
+    display: block;
+    margin: auto;
+}
+
+.buttonConverter2{
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+}
+
+h1{
+    text-align: center;
+}
+
+#convTemp{
+    text-align: center;
+}
+
+#convTemp img{
+    display: block;
+    margin-left: auto;
+    width: 30%;
+    margin-right: 30px;
+}
+
+#convTemp p{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.buttonConverter, .buttonConverter2{
+    border-radius: 25px;
+    box-shadow: 10px 5px 5px black ;
+}
+
+td, th, table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: white;
+}
+
+th{
+    background-color: lightgray ;
+}
+
+.cold{
+    background-color: #ADD8E6 !important;
+}
+
+.warm{
+    background-color: lightgray !important;
+}
+
+.hot{
+    background-color: #FFA500 !important;
+}
+
+table{
+    width: 25%;
+    margin-left: 38%;
+    margin-top: 2%;
+}

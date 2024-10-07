@@ -1,0 +1,29 @@
+body{
+    font-family: arial;
+}
+
+#result{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 10px;
+}
+
+.cars{
+    border: 1px solid black;
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: #dedede;
+}
+
+img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.cars p{
+    font-size: 15px;
+}
+
+.cars h6{
+    text-align: right;
+}
